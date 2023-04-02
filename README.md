@@ -1,6 +1,6 @@
 # Google Drive Uploder
-    #### Video Demo:  <URL HERE>
-    #### Description:
+    
+    ## Description:
     This Python program uploads files or folders to Google Drive using the Google Drive API. The program imports required libraries, including the Google
     authentication library, and defines necessary scopes and arguments. The main function of the program checks the command-line arguments and uploads the
     specified file or folder to the Google Drive folder with the given folder ID.
